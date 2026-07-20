@@ -1,0 +1,160 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.first {
+    background-color: #1F2937;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.links,
+a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+    color: #E5E7EB;
+    display: flex;
+    gap: 18px;
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.body .text {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 500px;
+    gap: 18px;
+}
+
+.body .text .big {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: 900;
+}
+
+.body .text .small {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header {
+    background-color: #1F2937;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.body {
+    display: flex;
+    align-items: center;
+    width: 100vw;
+    justify-content: center;
+    gap: 48px;
+}
+
+button {
+    background-color: #3882F6;
+    border-radius: 6px;
+    color: white;
+    padding: 4px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border: 2px solid white;
+}
+
+.second {
+    height: 500px;
+}
+
+.second .heading {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+    margin: 48px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+
+.imagetext {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.picture {
+    border-radius: 12px;
+    border: 4px solid #3882F6;
+}
+
+.third {
+    height: 500px;
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.note {
+    width: 70vw;
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.author {
+    font-style: normal;
+    font-weight: 500;
+}
+
+.fourth {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.fourth .action {
+    width: 80vw;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #3882F6;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.fourth .action .signup {
+    color: #E5E7EB;
+}
+
+.call {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.last {
+    background-color: #1F2937;
+    height: 80px;
+    color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

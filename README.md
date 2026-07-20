@@ -1,2 +1,1 @@
-# First-Complete-Web-Page
-creating my first ever web page with css, a simple project which will help me polish my html and css skills
+This is my first ever Landing page, just for learning but i am proud of it, i hope i learn alot in future, and i also did a HUGE mistake, i didn't commit while building website coz i was deleting the code and writing again and again, i hope i remeber this mistake and not repeat it again, remember guys, as soon as you do something meaningful, don't forget to commit.
